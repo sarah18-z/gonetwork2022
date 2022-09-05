@@ -260,11 +260,11 @@
       <div class="container">
         <div class="odd-year">
           <div class="year">
-            <a href="{{url('archive/2017')}}" target="_blank"><img src="{{url('images/Archive-2021.png')}}" alt=""></a>
+            <a href="{{url('archive/2017')}}" target="_blank"><img src="{{url('images/Archive-2017.jpg')}}" alt=""></a>
             <span>2017</span>
           </div>
           <div class="year">
-            <a href="{{url('archive/2021')}}" target="_blank"><img src="{{url('images/Archive-2021.png')}}" alt=""></a>
+            <a href="{{url('archive/2021')}}" target="_blank"><img src="{{url('images/Archive-2019.JPG')}}" alt=""></a>
             <span>2021</span>
           </div>
         </div>
